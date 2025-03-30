@@ -2,7 +2,9 @@
 
 Recreation of the classic game Pong in the programming language Dart for the web.
 
-## Features
+![image](https://github.com/user-attachments/assets/53927714-9849-4c41-946e-a89347da5436)
+
+# Features
 - Classic Pong
 - Customizable game settings
 - 4 unique maps
